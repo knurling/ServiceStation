@@ -14,7 +14,7 @@ We love hearing about how you use Service Station!
 
 Please send us a tweet at [@ServiceStationX](https://twitter.com/ServiceStationX)
 
-## Suport
+## Support
 
 We're using GitHub as the Service Station support website.
 
