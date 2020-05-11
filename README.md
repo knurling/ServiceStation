@@ -8,12 +8,6 @@ Service Station for macOS
 
 🔶 Available [on the Mac App Store](https://apps.apple.com/us/app/service-station/id1503136033?ls=1/)
 
-## Twitter
-
-We love hearing about how you use Service Station!
-
-Please send us a tweet at [@ServiceStationX](https://twitter.com/ServiceStationX)
-
 ## Support
 
 We're using GitHub as the Service Station support website.
@@ -25,3 +19,9 @@ Thank you for logging any bugs you may find. We'd also love to hear about featur
 ## Email
 
 If you'd prefer to contact us via email, please write to [support@servicestation.menu](mailto:support@servicestation.menu)
+
+## Twitter
+
+We love hearing about how you use Service Station!
+
+Please send us a tweet at [@ServiceStationX](https://twitter.com/ServiceStationX)
