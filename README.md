@@ -8,6 +8,12 @@ Service Station for macOS
 
 🔶 Available [on the Mac App Store](https://apps.apple.com/us/app/service-station/id1503136033?ls=1/)
 
+## Frequently Asked Questions
+
+ - ### [Service Station menu items are grayed out](https://github.com/knurling/ServiceStation/issues/1)
+ - ### [The application “Service Station Attendant” does not have permission to open the file](https://github.com/knurling/ServiceStation/issues/19)
+ - ### [Multiple running processes of Service Station Finder Extension](https://github.com/knurling/ServiceStation/issues/17)
+
 ## Support
 
 We're using GitHub as the Service Station support website.
