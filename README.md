@@ -10,9 +10,9 @@ Service Station for macOS
 
 ## Frequently Asked Questions
 
- - ### [Service Station menu items are grayed out](https://github.com/knurling/ServiceStation/issues/1)
- - ### [The application “Service Station Attendant” does not have permission to open the file](https://github.com/knurling/ServiceStation/issues/19)
- - ### [Multiple running processes of Service Station Finder Extension](https://github.com/knurling/ServiceStation/issues/17)
+ - #### [Service Station menu items are grayed out](https://github.com/knurling/ServiceStation/issues/1)
+ - #### [The application “Service Station Attendant” does not have permission to open the file](https://github.com/knurling/ServiceStation/issues/19)
+ - #### [Multiple running processes of Service Station Finder Extension](https://github.com/knurling/ServiceStation/issues/17)
 
 ## Support
 
